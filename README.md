@@ -1,6 +1,6 @@
 # CR Tracker
 
-## Error Log File:
+## Error Logger:
 
 1. Have a UTC Timestamp
 2. IP Address of the request
@@ -9,7 +9,7 @@
 5. Send the Errors to the Admin
 6. Create a Logging tracker in Cloud
 
-# There are three user roles namely
+## Event Logger
 
 Admin, User and Manager
 
