@@ -51,3 +51,8 @@ Admin, User and Manager
 2. All the logs should append to a log file on a daily basis
 3. Periodically append it
 4. Create a new file on a daily basis
+
+## Payment gateway integration
+
+1. Integrate a Third Party Micro Service
+2. Enable the user to pay to a verified merchant
