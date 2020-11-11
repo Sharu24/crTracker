@@ -59,3 +59,7 @@ Admin, User and Manager
 
 1. Integrate a Third Party Micro Service
 2. Enable the user to pay to a verified merchant
+
+## Handle Developer console / Inspect for any page
+
+1. Display A Custom message for users with respective CV's
