@@ -63,3 +63,7 @@ Admin, User and Manager
 ## Handle Developer console / Inspect for any page
 
 1. Display A Custom message for users with respective CV's
+
+## Donation link
+
+1. Have a features for users to donation generously
