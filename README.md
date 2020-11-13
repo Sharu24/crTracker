@@ -1,6 +1,6 @@
 # Project Description
 
-1. 
+1.
 
 # CR Tracker
 
@@ -72,4 +72,30 @@ Admin, User and Manager
 
 1. Have a features for users to donation generously
 
-## 
+## Chatbot
+
+1. Have a chatbot for Customers and First Time users to interract with
+
+## Features - V2
+
+1. Make a Server Montioring Module for NPM
+   1. Versioned
+   2. configurable
+   3. command line interraction
+2. Server Desktop Task Manager
+   1. Web UI to display Acive, Inactive sessions for a Server
+3. Build a Robust Dashboard
+   1. Times per day/week/month the Check has hasn't responded
+   2. Display by check, response code, protocols
+4. Monitor heterogenous servers
+   1. handle wide range of Http statuses
+   2. Protocols ( ftp, smtp, tcp etc )
+5. Send a Broadcast to all Customers
+   1. SMS and Email - When the Services are down for maintenance
+   2. Email - For new Offerings and Updates
+6. Email Server health Reports daily/weekly/monthly
+   1. Create a Email Template for reports
+   2. Attached a PDF version for the reports as well
+7. Generate Synthetic Trasactions to simulate a Customer Interraction
+   1. Hit Certain Synthetic Endpoints (API's)
+   2. Check if the response is as expected
