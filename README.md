@@ -99,3 +99,30 @@ Admin, User and Manager
 7. Generate Synthetic Trasactions to simulate a Customer Interraction
    1. Hit Certain Synthetic Endpoints (API's)
    2. Check if the response is as expected
+
+## WriteFrame:
+
+1. Sharath
+   1. Landing Page
+   2. Signup Page (Make this more practical/elegant)
+      1. ? Describing the Fields
+   3. Adding Admins/Sub-Admins (Check when we should have this feature)
+2. Aditya
+   1. Plan ( Free / Paid )
+   2. Visualizations / Graphs
+3. Anil
+   1. Archive Checks
+      1. Make Checks Inactive On Delete
+      2. Activate a Check
+      3. Delete Checks
+         1. background process to delete after 'n' days
+   2. Chatbot
+   3. Donation
+   4. Knowledge Base
+   5. Customer Support
+4. Whats Missed
+   1. Admin Dashboard
+      1. Delete use account
+      2. View Overall Dashboards
+   2. Customer Support
+      1. User and Admin Interraction
