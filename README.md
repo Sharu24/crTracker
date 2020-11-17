@@ -100,7 +100,7 @@ Admin, User and Manager
    1. Hit Certain Synthetic Endpoints (API's)
    2. Check if the response is as expected
 
-## WriteFrame:
+## WireFrame Collab:
 
 1. Sharath
    1. Landing Page
