@@ -99,6 +99,9 @@ Admin, User and Manager
 7. Generate Synthetic Trasactions to simulate a Customer Interraction
    1. Hit Certain Synthetic Endpoints (API's)
    2. Check if the response is as expected
+8. Search Engine
+   1. Build a Auto Fill / Suggestions
+   2. Match every letter and populate users
 
 ## WireFrame Collab:
 
